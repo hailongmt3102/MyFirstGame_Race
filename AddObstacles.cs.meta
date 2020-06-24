@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 62df4caf0eea37e44bb1d88680111a11
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CubeObstacle: {fileID: 2809508456910399658, guid: e2d5a80d17cd04c4e805295327a262fd,
+      type: 3}
+  - CapsuleObstacle: {fileID: 5263741037387817978, guid: 26ebadcdeffc58f42a1a91021b447aa3,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
